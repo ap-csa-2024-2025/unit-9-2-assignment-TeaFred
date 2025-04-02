@@ -3,10 +3,9 @@ public class OnlineCompany extends Company
 	private String webAddress;
 
 	// An online company's address is its webaddress
-	public OnlineCompany(String name, String webAddress)
-	{
-
-	}
+	//public OnlineCompany(String name, String webAddress)
+	//{
+	//}
 
 	// Return the website address, since the address is
 	// reinterpreted as the web address here.
